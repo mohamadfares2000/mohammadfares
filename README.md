@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamad fares</h1>
+<h1 align="center">Hi 👋, I'm Mohammad fares</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4844F7&width=435&lines=Upcoming+MERN+Stack+Developer)](https://git.io/typing-svg)
 
